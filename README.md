@@ -1,25 +1,25 @@
-# MCBE-Pseudo-LangPack
-The resurrection of the MCBE-Pseudo-LangPack project. I am the original author of this pack. Due to an accidental destory from my account, the original version was lost. Now, I plan to create a new version of this pack.
+# MCBE-Pseudo-LangPack  
+The revival of the MCBE-Pseudo-LangPack project. I am the original author of this pack. Due to accidentally deleting my account, the original version was lost. I am now creating a new version.
 
-## Introduction to This Pack
+## Introduction to This Pack  
 Inspired by [this project](https://github.com/zhuWin/Minecraft-Pseudo-localization-Language-Pack), I created the MCBE-Pseudo-LangPack for Bedrock Edition players.
 
-- **Note**: This language pack is exclusively designed for Minecraft Bedrock Edition. For Java Edition player, please click [here](https://modrinth.com/resourcepack/pslp4mc/versions).
+- **Note**: This language pack is designed exclusively for Minecraft Bedrock Edition. Java Edition players, please refer [here](https://modrinth.com/resourcepack/pslp4mc/versions).
 
-This language pack includes pseudo-language, which mimics Microsoft's pseudo-localization techniques and can be enabled through the game's options menu.   Its can:
+This language pack includes a pseudo-language that mimics Microsoft's pseudo-localization techniques and can be enabled through the game's options menu. It can:
 
-- Test font compatibility
-- Locate string resources
-- Mostly for fun
+- Test font compatibility  
+- Help locate string resources  
+- Be used mostly for fun  
 - And more...
 
-### **Important Notice**:
-Currently, Minecraft Bedrock Edition uses the outdated version of Unifont, which may result in some characters not displaying correctly.  It is normal to encounter missing characters in certain texts.  However, if you find that any UI elements cannot display entirely or affects gameplay seriously, please remove the pack or report the issue via the Issues Tracker. I will make every effort to optimize and resolve such problems.
+### **Important Notice**:  
+Currently, Minecraft Bedrock Edition uses an outdated version of Unifont, which may cause some characters to display incorrectly. It is normal to encounter missing characters in certain texts. However, if any UI elements become unreadable or gameplay is seriously affected, please remove the pack or report the issue via the Issues Tracker. I will do my best to optimize and fix such problems.
 
-## Introduction to Pseudo-Localization
-Pseudo-localization is a software development technique used to simulate the effects of localization (multilingual adaptation) without completing actual translation work. This method primarily tests a software's internationalization(i18n) support capabilities by simulating features of target languages, such as special characters, long text strings, and character encoding issues. For more detailed information, please refer to [Microsoft's official documentation on pseudo-localization](https://learn.microsoft.com/globalization/methodology/pseudolocalization).
+## Introduction to Pseudo-Localization  
+Pseudo-localization is a software development technique used to simulate the effects of localization (multilingual adaptation) without completing full translations. It primarily tests a software's internationalization (i18n) support by simulating characteristics of target languages, such as special characters, long text strings, and character encoding issues. For more details, refer to [Microsoft's official documentation on pseudo-localization](https://learn.microsoft.com/globalization/methodology/pseudolocalization).
 
-## Miscellaneous Information
-- If you encounter any issues, please report them via the Issues Tracker.
-- Special thanks to @zhuWin, @suntrise, and @what_damon for their contributions.
-- If there are any copyright concerns, I will promptly address and resolve them by removing the content if necessary.
+## Miscellaneous Information  
+- If you encounter any issues, please report them via the Issues Tracker.  
+- Special thanks to @zhuWin, @suntrise, and @what_damon for their contributions.  
+- If there are any copyright concerns, I will promptly address them and remove the content if necessary.
