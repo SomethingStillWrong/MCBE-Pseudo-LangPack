@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MCBE-Pseudo-LangPack",
+    "description": "MCBE-Pseudo-LangPack is a resource pack designed exclusively for Minecraft Bedrock Edition, created to bring Microsoft-style pseudo-localization to the game.",
+    "uuid": "5e7c8dcb-94b4-4a49-afa3-360f4603c709",
+    "version": [1, 26, 30],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ff1df7b4-5bbc-4c8d-b69e-e2b303e6f7a6",
+      "version": [1, 26, 30]
+    }
+  ]
+}
